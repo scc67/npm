@@ -5,6 +5,7 @@
 	"description": "Een freeCodeCamp cursus voor npm",
 	"keywords": ["descriptive", "related", "words", "freecodecamp"],
 	"license": "MIT",
+	"version": "1.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
