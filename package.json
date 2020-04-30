@@ -2,6 +2,7 @@
 
 	"name": "fcc-learn-npm-package-json",
 	"author": "Steve Collignon",
+	"description": "Een freeCodeCamp cursus voor npm",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
