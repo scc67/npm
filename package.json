@@ -3,7 +3,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Steve Collignon",
 	"description": "Een freeCodeCamp cursus voor npm",
-	"keywords": ["descriptive", "related", "words", "freecodecamp"],
+	"keywords": ["descriptive", "related", "freecodecamp"],
 	"license": "MIT",
 	"version": "1.0",
 	"dependencies": {
